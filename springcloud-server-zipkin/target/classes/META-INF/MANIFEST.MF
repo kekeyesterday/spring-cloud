@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: server-zipkin
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.jimmy.config
+Build-Jdk: 1.7.0_71
+Built-By: zghdo
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://projects.spring.io/spring-boot/springcloud-
+ server-zipkin/
+
